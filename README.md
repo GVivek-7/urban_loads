@@ -19,7 +19,7 @@ UrbanLoad is a software-based web application that uses weather data and machine
 | Backend | Node.js (handles API routing, OpenWeather integration) |
 | Frontend | React.js (with Clerk for authentication) |
 | Visualization | Chart.js (for graphs and Graphs) |
-| Hosting | Vercel (Frontend), Railway/Render (Backend & Flask service) |
+| Hosting | Vercel (Frontend), ngrok (Backend & Flask service) |
 
 ## 🏗️ System Architecture
 
